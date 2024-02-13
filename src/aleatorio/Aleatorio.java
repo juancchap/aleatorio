@@ -8,6 +8,7 @@ public class Aleatorio {
 
    
     public static void main(String[] args) {
+      
         int numero,contador=0;
         double aleatorio;
         aleatorio=(int)(Math.random()*100);
